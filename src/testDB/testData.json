@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Аптека АНЦ",
+    "location": "50.440295, 30.483251",
+    "adress": "вул.Івана Огієнка 15А, Київ",
+    "goods": [
+      {
+        "name": "Парацетамол-Дарниця таблетки по 500 мг №10",
+        "urlPicture": "https://root.tblcdn.com/img/goods/67b72bf6-c1bd-4325-a639-1c11b4feef49/1/img_0.jpg?v=AAAAAAnhZ4U",
+        "price": 150
+      },
+      {
+        "name": "Анальгін-Дарниця розчин д/ін. 500 мг/мл по 2 мл №10 в амп.",
+        "urlPicture": "https://root.tblcdn.com/img/goods/8342c927-ad99-414c-94b3-326d4b873c26/1/img_0.jpg?v=AAAAAAnlQo4",
+        "price": 54
+      },
+      {
+        "name": "Каптопрес-Дарниця таблетки №20 (10х2)",
+        "urlPicture": "https://root.tblcdn.com/img/goods/3d3a6dfe-a53b-4144-8381-9b807d417041/1/img_0.jpg?v=AAAAAAnhZ4A",
+        "price": 88
+      },
+      {
+        "name": "Нафтизин краплі наз. 0.1 % по 10 мл у флак. поліет. з крап.",
+        "urlPicture": "https://root.tblcdn.com/img/goods/10cc79f6-ca2d-4533-932e-c4207976906f/1/img_0.jpg?v=AAAAAAnhZ3w",
+        "price": 36
+      },
+      {
+        "name": "Нокспрей спрей наз. 0.05 % по 10 мл у конт.",
+        "urlPicture": "https://root.tblcdn.com/img/goods/45441086-2cb0-409b-b3dc-a678903e00c5/1/img_0.jpg?v=AAAAAAnsrnM",
+        "price": 78
+      },
+      {
+        "name": "Мукалтин таблетки по 50 мг №30 у конт.",
+        "urlPicture": "https://root.tblcdn.com/img/goods/8d273e69-5d11-421a-bbe1-00f2077ec63c/1/img_0.jpg?v=AAAAAAnh2uo",
+        "price": 47
+      }
+    ]
+  },
+  {
+    "name": "Аптека Добробут",
+    "location": "50.42345743186442, 30.457129862464413",
+    "adress": "пр.Повітряних Сил 54, Київ",
+    "goods": [
+      {
+        "name": "Парацетамол-Дарниця таблетки по 500 мг №10",
+        "urlPicture": "https://root.tblcdn.com/img/goods/67b72bf6-c1bd-4325-a639-1c11b4feef49/1/img_0.jpg?v=AAAAAAnhZ4U",
+        "price": 120
+      },
+      {
+        "name": "Парацетамол для дітей сироп 120 мг/5 мл по 100 мл у флак. (бан.)",
+        "urlPicture": "https://root.tblcdn.com/img/goods/ddc2d68b-4161-4897-a297-4b6507071d44/1/img_0.jpg?v=AAAAAAtxuvw",
+        "price": 40
+      },
+      {
+        "name": "Анальгін таблетки по 500 мг №10",
+        "urlPicture": "https://root.tblcdn.com/img/goods/a5d55c7a-b493-448a-ab56-12a598b95c28/1/img_0.jpg?v=AAAAAAnlwM",
+        "price": 11
+      },
+      {
+        "name": "Каптопрес 12,5-Дарниця таблетки №20 (10х2)",
+        "urlPicture": "https://root.tblcdn.com/img/goods/62ee3af0-57c6-4d81-8807-29fe9740cde4/1/img_0.jpg?v=AAAAAAnj5Nk",
+        "price": 66
+      },
+      {
+        "name": "Назо-спрей спрей наз. 0.5 мг/мл по 15 мл у конт.",
+        "urlPicture": "https://root.tblcdn.com/img/goods/40176de3-1c5c-4361-8cd3-5509644b9c03/1/img_0.jpg?v=AAAAAAnsrng",
+        "price": 47
+      },
+      {
+        "name": "Мукалтин форте з вітаміном С таблетки д/жув. №20 (10х2)",
+        "urlPicture": "https://root.tblcdn.com/img/goods/a3fe6376-958d-40a7-8ae8-443059e13d02/1/img_0.jpg?v=AAAAAAoODU",
+        "price": 105
+      }
+    ]
+  },
+  {
+    "name": "1 Соціальна Аптека",
+    "location": "50.523522739473485, 30.50064765546846",
+    "adress": "вул.Героїв Дніпра 41, Київ",
+    "goods": [
+      {
+        "name": "Парацетамол С.А.Л.Ф. розчин д/інф. 10 мг/мл по 100 мл у флак.",
+        "urlPicture": "https://root.tblcdn.com/img/goods/af63f924-931c-11ec-bacf-0050569aacb6/1/img_0.jpg?v=AAAAAAntMaM",
+        "price": 150
+      },
+      {
+        "name": "Каптопрес 12,5-Дарниця таблетки №20 (10х2)",
+        "urlPicture": "https://root.tblcdn.com/img/goods/62ee3af0-57c6-4d81-8807-29fe9740cde4/1/img_0.jpg?v=AAAAAAnj5Nk",
+        "price": 66
+      },
+      {
+        "name": "Солпадеїн актив таблетки шип. №12 (4х3) у стрип.",
+        "urlPicture": "https://root.tblcdn.com/img/goods/e9c99a71-9911-4e74-819e-9d9a565a34ef/1/img_0.jpg?v=AAAAAAt7IEo",
+        "price": 117
+      },
+      {
+        "name": "Бронхалик льодяники по 2,85 г №20",
+        "urlPicture": "https://root.tblcdn.com/img/goods/5f81df21-b20b-11ea-bab5-000c29ab36d9/1/img_0.jpg?v=AAAAAAoPGW8",
+        "price": 132
+      }
+    ]
+  },
+  {
+    "name": "КП \"Фармація\"",
+    "location": "50.50967705547898, 30.60790005546777",
+    "adress": "пр.Червоної Калини 47, Київ",
+    "goods": [
+      {
+        "name": "Парацетамол супозиторії рект. по 150 мг №10 (5х2)",
+        "urlPicture": "https://root.tblcdn.com/img/goods/3f5fc2eb-dd88-47f6-a168-96c004a26728/1/img_0.jpg?v=AAAAAAn3Z94",
+        "price": 31
+      },
+      {
+        "name": "Анальгін таблетки по 0.5 г №20 (10х2)",
+        "urlPicture": "https://root.tblcdn.com/img/goods/256e02a2-adbe-4845-9b27-95df86dfef5c/1/img_0.jpg?v=AAAAAAnxNv4",
+        "price": 14
+      },
+      {
+        "name": "Назалонг спрей наз., доз. 0.05 % по 10 г у флак.",
+        "urlPicture": "https://root.tblcdn.com/img/goods/d10f4796-e1ed-4d61-ae46-2536877fd0b8/1/img_0.jpg?v=AAAAAAnh2mM",
+        "price": 75
+      },
+      {
+        "name": "Мукалтин таблетки по 50 мг №30 у конт.",
+        "urlPicture": "https://root.tblcdn.com/img/goods/8d273e69-5d11-421a-bbe1-00f2077ec63c/1/img_0.jpg?v=AAAAAAnh2uo",
+        "price": 47
+      }
+    ]
+  }
+]
