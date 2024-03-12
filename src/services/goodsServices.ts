@@ -2,7 +2,7 @@ import { isValidObjectId } from "mongoose";
 import RequestError from "../helpers/requestError";
 import { modelGoods } from "../models/goodsModel";
 import { modelShops } from "../models/shopsModel";
-import { createGoodsSortObject } from "helpers/createSortObject";
+import { createGoodsSortObject } from "../helpers/createSortObject";
 
 class GoodsServices {
   // * show ALL
