@@ -6,7 +6,7 @@ MongoDB is used as the database.
 ## Features
 
 This application works in conjunction with the front end part, which is hosted at
-https://github.com/Kcepriu/front_end_delivery.
+https://github.com/Kcepriu/medicine_delivery_app_front.
 
 ## Available Scripts
 
